@@ -1,0 +1,1 @@
+print("jump 7 ")
